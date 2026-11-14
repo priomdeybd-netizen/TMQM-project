@@ -1,0 +1,3 @@
+rule,n_selected,precision,recall,n_true_positives_in_pool,interval_half_width_eV
+point prediction >= t,1096,0.7691605839416058,0.5002967359050445,1685,0.6419771948332107
+interval lower end >= t,124,0.967741935483871,0.0712166172106825,1685,0.6419771948332107

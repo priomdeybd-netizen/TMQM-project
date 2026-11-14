@@ -1,0 +1,9 @@
+scenario,method,coverage,mean_width_eV,nominal
+random 5-fold,random calibration,0.9008208879593886,1.147489474808188,0.9
+random 5-fold,group-aware calibration,0.9046811803834496,1.1570839594178637,0.9
+new donor set,random calibration,0.8614440626122848,1.136143353331311,0.9
+new donor set,group-aware calibration,0.9079886863028718,1.3224751707730822,0.9
+unseen metal,random calibration,0.7572438064878709,1.133647756691546,0.9
+unseen metal,group-aware calibration,0.9225638238085148,2.055156843514171,0.9
+newer structures,random calibration,0.8812837133402838,1.1342480137892168,0.9
+newer structures,group-aware calibration,0.9188160101536649,1.3015217874812137,0.9
